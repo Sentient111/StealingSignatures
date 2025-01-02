@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ext\stealer\stealer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="ext\logger\logger.h">
       <Filter>Header Files</Filter>
     </ClInclude>

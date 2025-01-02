@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ext\logger\logger.h" />
-    <ClInclude Include="ext\stealer\stealer.h" />
     <ClInclude Include="src\certificate_handler\certificate_handler.h" />
     <ClInclude Include="src\header_parser\header_parser.h" />
   </ItemGroup>
