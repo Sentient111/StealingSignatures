@@ -69,8 +69,6 @@ int GetPositionOfPosition(int* size, std::string& path)
 	else
 		location += 8;
 
-	//clean up
-	delete[] headers;
 
 	//both values are DWORDS so add 4 bytes to skip location and get size
 	*size = location + 4;
